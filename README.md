@@ -8,9 +8,9 @@ The solution is comprised of 2 projects:
 # Outcome
 Once the console app is launched, we should see all 3 derived classes have their own implementation of the `MakeNoise()` method
 
-![01](/images/01.png)
+![01](/images/01.PNG)
 
 The advantage of marking the base class as `abstract` (as opposed to making it `private` or `virtual`) is that developers cannot create an instance of this class directly. 
 They have to use one of the child classes instead.
 
-![02](/images/02.png)
+![02](/images/02.PNG)
