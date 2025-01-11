@@ -25,7 +25,8 @@ There are several ways to solve this problem. Personally, I prefer a combination
 1. Have an `abstract` base class of Animal. Each animal has a unique `name` property. Hence, we mark it as `static`, since it's class specific - not instance specific.
 2. While it's fine to inherit fields and properties from the base class, for methods I prefer to use interfaces. We create an interface called `IAnimalSpeak`.
 3. Because each sub-class of `Animal` will have its own implementation of this method, we mark it as `abstract`.   
-4. Note: We could've made this method `virtual` instead. The difference between the two is that a `virtual` method has a default implementation. Derived class are welcome to `override` it. But they are no required to. Since each animal emits a unique noise, it doesn't make sense to have a default implementation.
+4. Note: We could've made this method `virtual` instead. 
+The difference between the two is that a `virtual` method has a default implementation. Derived class are welcome to `override` it. But they are no required to. Since each animal emits a unique noise, it doesn't make sense to have a default implementation.
 
 # Outcome
 Once the console app is launched, we should see all 3 derived classes have their own implementation of the `MakeNoise()` method
