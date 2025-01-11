@@ -1,0 +1,12 @@
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\bin\Debug\net7.0\animal_generator.models.deps.json
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\bin\Debug\net7.0\animal_generator.models.dll
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\bin\Debug\net7.0\animal_generator.models.pdb
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.csproj.AssemblyReference.cache
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.AssemblyInfoInputs.cache
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.AssemblyInfo.cs
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.csproj.CoreCompileInputs.cache
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.dll
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\refint\animal_generator.models.dll
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\animal_generator.models.pdb
+D:\Programming\c_sharp_animal_generator\animal_generator\animal_generator.models\obj\Debug\net7.0\ref\animal_generator.models.dll

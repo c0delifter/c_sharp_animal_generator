@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "animal_generator.app/1.0.0": {
+        "dependencies": {
+          "animal_generator.models": "1.0.0"
+        },
+        "runtime": {
+          "animal_generator.app.dll": {}
+        }
+      },
+      "animal_generator.models/1.0.0": {
+        "runtime": {
+          "animal_generator.models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "animal_generator.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "animal_generator.models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
