@@ -26,7 +26,7 @@ There are several ways to solve this problem. Personally, I prefer a combination
 2. While it's fine to inherit fields and properties from the base class, for methods I prefer to use interfaces. We create an interface called `IAnimalSpeak`.
 3. Because each sub-class of `Animal` will have its own implementation of this method, we mark it as `abstract`.   
 4. Note: We could've made this method `virtual` instead. The difference between the two is that a `virtual` method has a default implementation. Derived classes are welcome to `override` it. But they are not required to. 
-5. Inside of the `animal_generator.app` project, we create an instance of each of the `Animal` sub-classes. 1 Cat, 1 Dog, 1 Pig. Each one them emits a different noise - despite the fact that all of them implement the same `MakeNoise()` method from the `IAnimaSound` interface. 
+5. Inside of the `animal_generator.app` project, we create an instance of each of the `Animal` sub-class. 1 Cat, 1 Dog, 1 Pig. Each one them emits a different noise - despite the fact that all of them implement the same `MakeNoise()` method from the `IAnimaSound` interface. 
 
 # Outcome
 Once the console app is launched, we should see all 3 derived classes have their own implementation of the `MakeNoise()` method
